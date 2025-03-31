@@ -2,14 +2,14 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="csLonicera">
-          <HintPath>assets\lib\csLonicera.dll</HintPath>
+    <Reference Include="Caprifolium">
+          <HintPath>assets\lib\Caprifolium.dll</HintPath>
     </Reference>
     <Reference Include="SineVita.Muguet">
         <HintPath>assets\lib\SineVita.Muguet.dll</HintPath>

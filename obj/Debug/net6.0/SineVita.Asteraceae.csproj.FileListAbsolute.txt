@@ -16,3 +16,4 @@ C:\Users\tomin\OneDrive\Documents\GitHub\SineVita.Asteraceae\obj\Debug\net6.0\re
 C:\Users\tomin\OneDrive\Documents\GitHub\SineVita.Asteraceae\obj\Debug\net6.0\SineVita.Asteraceae.pdb
 C:\Users\tomin\OneDrive\Documents\GitHub\SineVita.Asteraceae\obj\Debug\net6.0\SineVita.Asteraceae.genruntimeconfig.cache
 C:\Users\tomin\OneDrive\Documents\GitHub\SineVita.Asteraceae\obj\Debug\net6.0\ref\SineVita.Asteraceae.dll
+C:\Users\tomin\OneDrive\Documents\GitHub\SineVita.Asteraceae\obj\Debug\net6.0\SineVita.Asteraceae.sourcelink.json
