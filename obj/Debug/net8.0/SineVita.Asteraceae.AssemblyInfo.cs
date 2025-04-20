@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SineVita.Asteraceae")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5029ee8c471cc966b80122412f9217df5d66d2e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e67f2d98c291275e630ca32e9c722a6a28cd5905")]
 [assembly: System.Reflection.AssemblyProductAttribute("SineVita.Asteraceae")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SineVita.Asteraceae")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
