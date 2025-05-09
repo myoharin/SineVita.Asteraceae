@@ -9,7 +9,7 @@ using SineVita.Muguet;
 using Caprifolium;
 
 
-namespace SineVita.Asteraceae.Cosmosia {
+namespace SineVita.Muguet.Asteraceae.Cosmosia {
     
     public class ResonatorCosmosia : Resonator// handles the resontor logic of objects which can qualify to be a resonator
     {   
@@ -60,7 +60,7 @@ namespace SineVita.Asteraceae.Cosmosia {
 
         // * Constructor
         public ResonatorCosmosia(int resonatorParameterId, float sizeMutiplier = 1.0f, bool addPulseLowerThanOrigin = false, float resonance = 0, int criticalOverflowDuration = 0) 
-            : base(AsterGenus.Cosmosia) {
+            : base(Genus.Cosmosia) {
             ResonatorParameterId = resonatorParameterId;
             SizeMutiplier = sizeMutiplier;
             AddPulseLowerThanOrigin = addPulseLowerThanOrigin;

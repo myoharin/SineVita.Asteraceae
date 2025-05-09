@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomin\\OneDrive\\Documents\\GitHub\\SineVita.Asteraceae\\SineVita.Asteraceae.csproj",
-      "projectName": "SineVita.Asteraceae",
-      "projectPath": "C:\\Users\\tomin\\OneDrive\\Documents\\GitHub\\SineVita.Asteraceae\\SineVita.Asteraceae.csproj",
+      "projectUniqueName": "C:\\Users\\tomin\\OneDrive\\Documents\\GitHub\\SineVita.Asteraceae\\SineVita.Muguet.Asteraceae.csproj",
+      "projectName": "SineVita.Muguet.Asteraceae",
+      "projectPath": "C:\\Users\\tomin\\OneDrive\\Documents\\GitHub\\SineVita.Asteraceae\\SineVita.Muguet.Asteraceae.csproj",
       "packagesPath": "C:\\Users\\tomin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tomin\\OneDrive\\Documents\\GitHub\\SineVita.Asteraceae\\obj\\",
       "projectStyle": "PackageReference",

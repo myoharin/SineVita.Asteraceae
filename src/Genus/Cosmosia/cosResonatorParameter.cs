@@ -1,9 +1,7 @@
-using System;
-using System.Reflection.Metadata;
+
 using System.Text.Json;
-using System.Text.Json.Serialization;
-using SineVita.Muguet;
-namespace SineVita.Asteraceae.Cosmosia
+
+namespace SineVita.Muguet.Asteraceae.Cosmosia
 {
     public class ResonatorParameterCosmosia : ResonatorParameter
     {
@@ -39,7 +37,7 @@ namespace SineVita.Asteraceae.Cosmosia
         // * Derived Constructors
         public ResonatorParameterCosmosia(int resonatorParameterID)
             : this(Path.Combine(ResonanceHelper.ParametersFolderPath ?? "", "cosmosia" ,$"{resonatorParameterID}.json")) {}
-        public ResonatorParameterCosmosia(string paramaterPath) : base(AsterGenus.Cosmosia) {
+        public ResonatorParameterCosmosia(string paramaterPath) : base(Genus.Cosmosia) {
             if (int.TryParse(paramaterPath.Split("\\").Last().Split(".")[0], out int result)) {
                 ResonatorParameterId = result;
             } else {throw new FileNotFoundException("ParamaterIDNotSpecified");}
@@ -60,7 +58,7 @@ namespace SineVita.Asteraceae.Cosmosia
         }
     
         // * FromJson
-        private ResonatorParameterCosmosia() : base(AsterGenus.Cosmosia) {Origin = new MidiPitch(69); ChannelParameters = new List<ChannelParameterCosmosia>();}
+        private ResonatorParameterCosmosia() : base(Genus.Cosmosia) {Origin = new MidiPitch(69); ChannelParameters = new List<ChannelParameterCosmosia>();}
         public static ResonatorParameterCosmosia FromJson(string jsonString) {
             var jsonDocument = JsonDocument.Parse(jsonString);
             var rootElement = jsonDocument.RootElement;

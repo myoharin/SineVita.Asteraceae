@@ -1,5 +1,5 @@
-using SineVita.Asteraceae.Cosmosia;
-namespace SineVita.Asteraceae {
+using SineVita.Muguet.Asteraceae.Cosmosia;
+namespace SineVita.Muguet.Asteraceae {
     public class ResonanceHelper{
 
         public static string? ParametersFolderPath = null;

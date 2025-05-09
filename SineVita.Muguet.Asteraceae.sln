@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SineVita.Asteraceae", "SineVita.Asteraceae.csproj", "{E2608425-76F5-A5BA-0CE3-6F662962DC79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SineVita.Muguet.Asteraceae", "SineVita.Muguet.Asteraceae.csproj", "{E2608425-76F5-A5BA-0CE3-6F662962DC79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

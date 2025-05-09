@@ -10,7 +10,7 @@ using System.Text.Json;
 
 
 
-namespace SineVita.Asteraceae.Cosmosia {
+namespace SineVita.Muguet.Asteraceae.Cosmosia {
     public class ResonanceHelperCosmosia : ResonanceHelper // Muguet is the magic system it is currently operating under. Additional magic system can be added later.
     {
         // * Helper Constants

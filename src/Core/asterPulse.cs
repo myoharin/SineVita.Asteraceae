@@ -1,6 +1,5 @@
 using System;
-using SineVita.Muguet;
-namespace SineVita.Asteraceae {
+namespace SineVita.Muguet.Asteraceae {
     public class Pulse {
         public Pitch Pitch { get; set; }
         public byte Intensity { get; set; }

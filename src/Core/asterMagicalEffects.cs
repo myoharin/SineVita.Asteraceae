@@ -6,7 +6,7 @@
 
 // it is a backend class that helps bridge and connect to the Peppermint magic effect manifestation implementation.
 
-namespace SineVita.Asteraceae {
+namespace SineVita.Muguet.Asteraceae {
     public class MagicalEffectData {
         public int MagicEffectID { get; set; }
         public byte Intensity { get; set; } 

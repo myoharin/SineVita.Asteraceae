@@ -1,4 +1,4 @@
-namespace SineVita.Asteraceae.Cosmosia
+namespace SineVita.Muguet.Asteraceae.Cosmosia
 {
     public enum CosmosiaChannelId
     {

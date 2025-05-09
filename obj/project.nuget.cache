@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8XbqAUT3Hfc=",
+  "dgSpecHash": "WMNFT2r2egs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomin\\OneDrive\\Documents\\GitHub\\SineVita.Asteraceae\\SineVita.Asteraceae.csproj",
+  "projectFilePath": "C:\\Users\\tomin\\OneDrive\\Documents\\GitHub\\SineVita.Asteraceae\\SineVita.Muguet.Asteraceae.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
     "C:\\Users\\tomin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
